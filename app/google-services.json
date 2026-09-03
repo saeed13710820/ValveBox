@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441175796059",
+    "project_id": "valvebox",
+    "storage_bucket": "valvebox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441175796059:android:a3de863c48a800bf7cd27e",
+        "android_client_info": {
+          "package_name": "ir.valvebox.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNmCgAnlbYIWUxwaDVDELL_xNTvGiSqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
